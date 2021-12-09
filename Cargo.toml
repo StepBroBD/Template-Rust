@@ -1,0 +1,15 @@
+[package]
+name = "template"
+version = "0.1.0"
+edition = "2021"
+repository = "https://github.com/rust-lang/cargo/"
+authors = ["StepBroBD <Hi@StepBroBD.com>"]
+readme = "README.md"
+license-file = "LICENSE.md"
+
+[dependencies]
+
+# OR
+# [workspace]
+# members = [
+# ]
